@@ -10,9 +10,11 @@ https://user-images.githubusercontent.com/114469334/195971938-1a487f5c-d85b-45d2
 
 ![Umbrella_1](https://user-images.githubusercontent.com/114469334/195972007-b5085ed3-4984-4fb1-9f2d-cb02607a7c43.jpg)
 ![Umbrella_2](https://user-images.githubusercontent.com/114469334/195972011-71b8d528-1825-481c-9628-a611dcd550ab.jpg)
+
 사용된 mcu 및 소자
 
 ![Umbrella_3](https://user-images.githubusercontent.com/114469334/195972030-70ff354d-dc4d-4ba3-9345-cf89d2c64e86.jpg)
+
 상단에서 바라본 작품 사진
 
 # 작동 메커니즘
