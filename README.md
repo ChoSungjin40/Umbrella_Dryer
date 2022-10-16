@@ -1,4 +1,5 @@
 # Umbrella_Dryer
+2016.09~12
 
 # 작동영상
 https://user-images.githubusercontent.com/114469334/195971851-d54dc776-250d-42d2-8145-63ebc033b46a.mp4
